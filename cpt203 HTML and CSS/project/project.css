@@ -1,0 +1,286 @@
+header, main, nav, footer, section, article, figure, figcaption, aside { display: block; }
+
+#wrapper {	background-color: #CC99CC;
+		min-width: 700px;
+		max-width: 960px;
+		margin-right: auto;
+		margin-left: auto;
+	 	width: 80%;
+	 	border-width: 5px;
+		border-style: solid;
+		border-color: #3C003C;
+		border-radius: 150px 50px 50px 50px;
+		}
+
+header {font-family: "Lucida Handwriting", cursive, sans-serif;
+		text-align: center;
+		text-shadow: 2px 2px 2px #3C003C;
+		color: #CCFFFF;
+		border-bottom: 5px solid #3C003C; }
+		
+header a {	font-family: "Comic Sans MS", Arial, sans-serif;
+			color: #3C003C;
+			text-shadow: none; }
+header a:hover {	color: #0000FF; }
+
+nav {	text-align: center; }
+
+nav a {	text-decoration: none;
+	text-align: center;
+	color: #3C003C;
+	background-color: #CCFFFF;
+	font-weight: bold;
+	border: 3px solid #3C003C;
+	padding: 5px;
+	font-size: 1.5em;
+	letter-spacing: 0.1em;
+	font-family: "Comic Sans MS", Arial, sans-serif; }
+
+nav a:hover {	background-color: #3C003C;
+		color: #CCFFFF;
+		border-color: #CCFFFF; }
+
+.other {	}
+
+
+
+body { 	background-image: url(images/tile_031.jpg) }
+
+h1 { font-size: 3.5em;
+		text-align: center;
+		color: #3C003C;}
+
+h2 {	text-align: center;
+	color: #3C003C;
+	font-family: "Comic Sans MS", Arial, sans-serif}
+
+.menu {	font-size: 2.0em;
+		color: #CCFFFF;
+		text-shadow: 2px 2px 2px #3C003C;}
+		
+	
+	
+h3 {	text-align: center;
+	color: #CCFFFF;
+	font-family: "Comic Sans MS", Arial, sans-serif; }
+	
+h3 span {color: #FF0000; }
+
+h4 {	text-align: center;
+	font-size: 1.2em;
+	color: #3C003C;
+	font-family: "Comic Sans MS", Arial, sans-serif;	}
+
+h5 {	}
+
+h6 {		}
+
+p {	text-align: center;
+		color: #3C003C;
+		font-family: "Comic Sans MS", Arial, sans-serif;}
+
+footer {color: #3C003C; 
+	text-align: center; 
+	font-size: small; }
+
+footer a {	color: #3C003C; }
+footer a:hover {	color: #0000FF; }
+
+.welcome {	
+		margin: 10px;
+		background-color: #CCFFFF;
+		border: 3px solid #3C003C;
+		border-radius: 50px;
+		padding: 20px;
+		font-size: 1.1em;
+		color: #3C003C;
+		font-family: "Comic Sans MS", Arial, sans-serif; }
+		
+.welcome a { color: #3C003C; }
+		
+.contact {	text-align: center;
+			color: #3C003C;
+			font-family: "Comic Sans MS", Arial, sans-serif; }
+			
+.canimg {	margin-left: 	230px; }	
+		
+.new {	color: #FF0000; }
+
+table.foottable {	width: auto;
+					margin: auto;
+					font-size: 1.1em; 
+					border: none;
+					padding: 10px;
+					text-align: center;
+					font-family: "Comic Sans MS", Tahona, sans-serif;}
+table.foottable td {	padding-left: 10px;
+					padding-right: 10px; }
+					
+
+table.foottable  td a:hover { #0000FF;
+						font-style: italic; }
+
+					
+		
+table.can {	width: 600px;
+		margin: auto;
+		padding: 5px; 
+		text-align: center;
+		border: 3px solid #3C003C;
+		border-spacing: 0;
+		background-color: #FF99CC;
+		font-size: 1.2em; }
+		
+table.can thead th{	background-color: #CCFFFF;
+			color: #3C003C;
+			text-decoration: underline; }
+			
+table.can tfoot td{	background-color: #CCFFFF;
+			color: #3C003C;}
+		
+table.can th  {	padding: 2px;
+		border-right: 1px solid #FF99CC;
+		border-left: 1px solid #FF99CC;
+		font-family: "Comic Sans MS", cursive, sans-serif; }
+		
+table.can td  {	padding: 2px;
+		border-right: 1px solid #FF99CC;
+		border-left: 1px solid #FF99CC;
+		font-family: "Comic Sans MS", cursive, sans-serif; }
+		
+table.can tr:nth-of-type(odd) {	background-color: #3C003C;
+						color: #CCFFFF; }
+
+table.can tr:nth-of-type(even) {	background-color: #CCFFFF;
+						color: #3C003C; }
+
+table.can caption {	color: #3C003C;
+			text-shadow: 1px 1px 1px #FFFFFF;
+			font-size: 2.0em; }
+
+form {	width: 600px;
+		margin: auto; }
+			
+fieldset {	color: #3C003C;
+			border: 2px solid #3C003C;
+			font-size: 1.2em;
+			font-family: "Comic Sans MS", Arial, sans-serif; }
+				
+legend {	font-size: 1.2em;
+		color: #3C003C;
+		font-family: "Comic Sans MS", Arial, sans-serif; }
+
+.legendmain { 	font-size: 2.0em;
+				text-align: center; } 
+				
+#gallery { position: relative; }
+figure {	position: absolute;
+		margin-left: 400px;
+		text-align: center;
+		opacity: .25; }
+
+#gallery ul { width: 300px;
+              list-style-type: none;
+}
+#gallery li { display: inline; 
+              float: left;
+			  padding: 10px;
+}
+#gallery img { border: 3px solid #CCFFFF; }
+#gallery a { color: #CCFFFF;
+             text-decoration: none; 
+			 font-style: italic;
+}
+#gallery span { position: absolute; 
+                left: -1000px;
+				opacity: 0;
+				-webkit-transition: opacity 1s ease-in-out;
+                -moz-transition: opacity 1s ease-in-out;
+                -o-transition: opacity 1s ease-in-out;
+                transition: opacity 1s ease-in-out; 
+}
+#gallery a:hover span { position: absolute;
+                        top: 16px; 
+						left: 400px;
+                        text-align: center; 
+						opacity: 1;
+}
+
+.fotorama {	padding-left: 230px; }
+
+.floatleft {	float: left;
+		padding: 20px; }
+		
+.floatright {	float: right;
+		padding: 20px; }
+		
+.floatright2 {	float: right;
+		padding-right: 75px;
+		padding-top: 20px; }
+				
+@media only screen and (max-width: 1024px) {
+	body {	margin: 0;
+		padding: 0;
+		background-color: #CC99CC;
+		background-image: none; }
+
+	#wrapper {	width: 100%;
+			min-width: 0;
+			margin: 0;
+			padding: 0;
+			box-shadow: none;
+			border-radius: 0;
+			border-style: none; }
+
+	h1 {	margin: 0;
+		text-indent: 0;
+		font-size: 2.5em;
+		padding-left: 2em;
+		white-space: normal; }
+
+	nav {	width: auto;
+		margin-top: 0.5em; }
+
+	nav a {	font-size: 1.5em; }
+	
+
+	main {	padding-top: 2.5em;
+		padding-bottom: 2.5em;
+		padding-left: 1em;
+		padding-right: 1em;
+		margin: 0;
+		font-size: 90%;
+		clear: both; }
+
+	.welcome { margin: 0; }
+}
+
+@media only all and (max-width: 768px) {
+
+	h1 {	font-size: 1.5em;
+		padding-top: 0.25em;
+		padding-left: 1.5em; }
+
+	nav {	width: 98%; }
+
+	nav a {	padding: 0.5em;
+		width: 40%;
+		float: left;
+		min-width: 5em;
+		margin-left: 0.5em; }
+
+	main {	padding: 0.6em; }
+	
+	.floatleft {	float: none }
+
+	h3 {	padding-top: 0;
+		margin: 0; }
+
+	dd {	line-height: 100%; }
+
+	footer {	padding: 0.5em;
+			margin: 0; }
+}
+
+#mobile { display: inline; }
+	#desktop { display: none; }
