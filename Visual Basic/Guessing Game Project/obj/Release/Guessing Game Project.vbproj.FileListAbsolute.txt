@@ -1,0 +1,10 @@
+C:\Users\Gary\Documents\World Domination HQ\WCCC\SP2015\cpt162_VisualBasic1\VB2012\Chap05\Guessing Game Solution\Guessing Game Project\bin\Release\Guessing Game Project.exe.config
+C:\Users\Gary\Documents\World Domination HQ\WCCC\SP2015\cpt162_VisualBasic1\VB2012\Chap05\Guessing Game Solution\Guessing Game Project\bin\Release\Guessing Game Project.exe
+C:\Users\Gary\Documents\World Domination HQ\WCCC\SP2015\cpt162_VisualBasic1\VB2012\Chap05\Guessing Game Solution\Guessing Game Project\bin\Release\Guessing Game Project.pdb
+C:\Users\Gary\Documents\World Domination HQ\WCCC\SP2015\cpt162_VisualBasic1\VB2012\Chap05\Guessing Game Solution\Guessing Game Project\bin\Release\Guessing Game Project.xml
+C:\Users\Gary\Documents\World Domination HQ\WCCC\SP2015\cpt162_VisualBasic1\VB2012\Chap05\Guessing Game Solution\Guessing Game Project\obj\Release\Guessing_Game_Project.frmMain.resources
+C:\Users\Gary\Documents\World Domination HQ\WCCC\SP2015\cpt162_VisualBasic1\VB2012\Chap05\Guessing Game Solution\Guessing Game Project\obj\Release\Guessing_Game_Project.Resources.resources
+C:\Users\Gary\Documents\World Domination HQ\WCCC\SP2015\cpt162_VisualBasic1\VB2012\Chap05\Guessing Game Solution\Guessing Game Project\obj\Release\Guessing Game Project.vbproj.GenerateResource.Cache
+C:\Users\Gary\Documents\World Domination HQ\WCCC\SP2015\cpt162_VisualBasic1\VB2012\Chap05\Guessing Game Solution\Guessing Game Project\obj\Release\Guessing Game Project.exe
+C:\Users\Gary\Documents\World Domination HQ\WCCC\SP2015\cpt162_VisualBasic1\VB2012\Chap05\Guessing Game Solution\Guessing Game Project\obj\Release\Guessing Game Project.xml
+C:\Users\Gary\Documents\World Domination HQ\WCCC\SP2015\cpt162_VisualBasic1\VB2012\Chap05\Guessing Game Solution\Guessing Game Project\obj\Release\Guessing Game Project.pdb
